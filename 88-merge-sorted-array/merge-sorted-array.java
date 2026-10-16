@@ -5,7 +5,7 @@ class Solution {
             nums1[m + i] = nums2[i];
         }
         
-        // Use Java's built-in sort to sort the entire nums1 array
+       
         Arrays.sort(nums1);
     }
 }
